@@ -219,22 +219,20 @@ The resulting customer segments can be used for:
 #  Repository Structure
 
 ```
-Telecom-Churn-Prediction-and-Customer-Segmentation
+Telecom-Churn-Prediction-and-Customer-Segmentation-using-Machine-Learning/
 │
-├── data
-│   └── telecom_customer_churn.xlsx
-│
-├── images
-│   ├── churn_distribution.png
-│   ├── heatmap.png
-│   ├── roc_curve.png
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   └── customer_clusters.png
-│
-├── Telecom_Churn_Prediction_and_Customer_Segmentation.ipynb
+├── README.md
 ├── requirements.txt
-└── README.md
+│
+├── data/
+│   ├── Telecom_Churn_Prediction_and_Customer_Segmentation.ipynb
+│
+└── Images/
+    ├── churn_distribution.png
+    ├── correlation_heatmap.png
+    ├── roc_curve.png
+    ├── SHAP_summary_plot.png
+    └── customer_clusters.png
 ```
 
 ---
