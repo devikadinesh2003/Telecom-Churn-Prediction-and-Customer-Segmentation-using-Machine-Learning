@@ -1,4 +1,4 @@
-# 📷 Project Visualizations
+#  Project Visualizations
 
 ## Customer Churn Distribution
 
